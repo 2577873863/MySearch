@@ -15,3 +15,7 @@ npm run serve
 npm run build
 ```
 
+### 项目启动地址
+```
+http://localhost:1212
+```
